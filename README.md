@@ -17,7 +17,7 @@
 * This Analysis helps us to Figure out about top players by different stats , such as , overall, Potential Overall and etc.
 * The dataset was taken from Kaggle.com
 
-[**Project 3 :** Spotify Artist Data 2023](https://github.com/Shreyas-0123/Data-Analysis/blob/main/Spotify%20Artist%20Data%20Analysis%202023.ipynb)
+[**Project 3 :** Top Artists And Tracks 2023 Data Analysis Using Spotify API](https://github.com/Shreyas-0123/Data-Analysis/blob/main/Spotify%20Artist%20Data%20Analysis%202023.ipynb)
 
 * with this Analysis we can figure out top artist of 2023.
 
